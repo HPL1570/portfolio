@@ -371,7 +371,7 @@ li .profile_title {
 }
 
 .services_page .services_container .services_box {
-    width: 50%;
+    width: 100%;
     margin: 0.6rem;
     border: 0.1rem solid var(--brand-color);
     border-radius: 0.4rem;
@@ -405,6 +405,7 @@ li .profile_title {
 }
 
 .services_box .services_text {
+    text-align: justify;
     font-size: 1rem;
     font-weight: 400;
 }
